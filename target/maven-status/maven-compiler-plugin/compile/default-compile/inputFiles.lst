@@ -10,5 +10,5 @@ D:\Share\labs\lab3\backend\src\main\java\ru\backend\services\AuthService.java
 D:\Share\labs\lab3\backend\src\main\java\ru\backend\exceptions\ErrorResponse.java
 D:\Share\labs\lab3\backend\src\main\java\ru\backend\models\User.java
 D:\Share\labs\lab3\backend\src\main\java\ru\backend\storages\UserStorage.java
-D:\Share\labs\lab3\backend\src\main\java\ru\backend\configs\SecurityConfig.java
+D:\Share\labs\lab3\backend\src\main\java\ru\backend\SpringSecurityConfig.java
 D:\Share\labs\lab3\backend\src\main\java\ru\backend\BackendApplication.java
